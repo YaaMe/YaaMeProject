@@ -1,0 +1,25 @@
+#MyEclipse Hibernate Properties
+#Wed Apr 08 15:18:20 CST 2015
+sessionFactoryName=pojo.HibernateSessionFactory
+genBasicCompId=false
+profile=
+daoSFId=
+version=3.3
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+libInstallFolder=WebRoot/WEB-INF/lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/SocialNetworkv1.2/hibernate.reveng.xml
+configFile=/SocialNetworkv1.2/src/pojo/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=true
+baseDaoClass=pojo.BaseHibernateDAO
